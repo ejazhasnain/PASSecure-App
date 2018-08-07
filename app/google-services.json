@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "299088093306",
+    "firebase_url": "https://pas-5a7db.firebaseio.com",
+    "project_id": "pas-5a7db",
+    "storage_bucket": "pas-5a7db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299088093306:android:3bbe993dcde8f57c",
+        "android_client_info": {
+          "package_name": "nnk.com.passecure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299088093306-stuq4k6t49kh91fltmms0k3bb1nmd920.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nnk.com.passecure",
+            "certificate_hash": "48e381653d600b84b9f22cd59f96e99716d028e8"
+          }
+        },
+        {
+          "client_id": "299088093306-h9aulet7t0uhnc55ust7rshce2ntev3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcxui351akfD1bQ0ha0uBHCVZJm3kr3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299088093306-h9aulet7t0uhnc55ust7rshce2ntev3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
