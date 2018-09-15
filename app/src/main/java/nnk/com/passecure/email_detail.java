@@ -63,9 +63,9 @@ public class email_detail extends AppCompatActivity {
             }
             else
             {
-                if(pass.length()<6)
+                if(pass.length()<5)
                 {
-                    et6.setError("Length should be 6");
+                    
                 }
                 else
                 {
