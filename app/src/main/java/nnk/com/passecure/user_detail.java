@@ -96,9 +96,9 @@ public class user_detail extends AppCompatActivity {
                     }
                     else
                     {
-                        if(pass.length()<6)
+                        if(pass.length()<5)
                         {
-                            et4.setError("Length should be 6");
+                            et4.setError("Password is weak");
                         }
                         else
                         {
